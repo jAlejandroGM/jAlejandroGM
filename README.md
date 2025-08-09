@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm J. Alejandro Guzmán M.</h1>
 <h3 align="center">A passionate full-stack software developer from Perú</h3>
 
-- 🔭 I’m currently working on [αlpha — Web Platform for School Communication](https://github.com/4GeeksAcademy/react-flask-hello-Proyect-Final)
+- 🔭 I’m currently working on [Modas Bety — Elegant Landing Page for Custom Fashion Atelier](https://github.com/jAlejandroGM/modasbety-landingpage)
 
 - 🌱 I’m currently learning **Java**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **j.alejandro.guzman.m@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/kfmsppk1lwtj](https://flowcv.com/resume/kfmsppk1lwtj)
+- 📄 Know about my experiences [My Resume](https://flowcv.com/resume/kfmsppk1lwtj)
 
 - ⚡ Fun fact **I love dogs, cats, hedgehogs, and videogames**
 
