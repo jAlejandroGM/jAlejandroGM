@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm J. Alejandro Guzmán M.</h1>
 <h3 align="center">A passionate full-stack software developer from Perú</h3>
 
-- 🔭 I’m currently working on [Modas Bety — Elegant Landing Page for Custom Fashion Atelier](https://github.com/jAlejandroGM/modasbety-landingpage)
+- 🔭 I’m currently working on [Advanced Line Cooling - Official Website](https://github.com/jAlejandroGM/advancedline-cooling-web)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 - 💬 Ask me about **React, Bootstrap, CSS**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [My Resume](https://flowcv.com/resume/kfmsppk1lwtj)
 
-- ⚡ Fun fact **I love dogs, cats, hedgehogs, and videogames**
+- ⚡ Fun fact **I have many pets, and I really enjoy videogames and chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
