@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm J. Alejandro Guzmán M.</h1>
-<h3 align="center">A passionate Front-End software developer from Perú</h3>
+<h3 align="center">A passionate Full-Stack software developer from Perú</h3>
 
 - 🔭 I’m currently working on [Advanced Line Cooling - Official Website](https://github.com/jAlejandroGM/advancedline-cooling-web)
 
