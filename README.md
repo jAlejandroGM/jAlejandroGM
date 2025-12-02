@@ -3,9 +3,9 @@
 
 - 🌐 Check out my personal portfolio: [alguzdev](https://alguzdev.vercel.app/)
 
-- 🔭 I’m currently working on [Advanced Line Cooling - Official Website](https://github.com/jAlejandroGM/advancedline-cooling-web)
+- 🔭 I’m currently working on [alpha](https://github.com/jAlejandroGM/alpha)
 
-- 🌱 I’m currently learning **Astro & Tailwind CSS**
+- 🌱 I’m currently learning **Typescript % Next.js**
 
 - 📫 How to reach me **j.alejandro.guzman.m@gmail.com**
 
