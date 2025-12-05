@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [alpha](https://github.com/jAlejandroGM/alpha)
 
-- 🌱 I’m currently learning **Typescript % Next.js**
+- 🌱 I’m currently learning **Typescript & Next.js**
 
 - 📫 How to reach me **j.alejandro.guzman.m@gmail.com**
 
